@@ -1,0 +1,7 @@
+K = 35e3
+M = 12E4
+C = -87.7e100
+
+print(type(K))
+print(type(M))
+print(type(C))
