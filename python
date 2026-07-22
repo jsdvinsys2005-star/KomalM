@@ -1,0 +1,7 @@
+K = str(9)
+M = int(11)
+C = float(6)
+
+print(K)
+print(M)
+print(C)
