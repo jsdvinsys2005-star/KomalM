@@ -1,0 +1,6 @@
+K = int(09)
+M = int(1.1)
+C = int(06)
+print(K)
+print(M)
+print(C)
